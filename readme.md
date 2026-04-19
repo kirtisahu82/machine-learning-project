@@ -57,15 +57,15 @@ The dataset contains features like location, total rooms, population, and median
 
 📊 Data Preview
 
-"Housing Data" (screenshots/housing.jpeg)
+![Housing Data](screenshots/housing.jpeg)
 
 ⚙️ Model Pipeline
 
-"Pipeline" (screenshots/pipeline.jpeg)
+![Pipeline](screenshots/pipeline.jpeg)
 
 📈 Model Accuracy
 
-"Accuracy" (screenshots/Accuracy.jpeg)
+![Accuracy](screenshots/Accuracy.jpeg)
 
 ---
 
